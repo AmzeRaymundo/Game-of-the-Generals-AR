@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Views\Screens\GameScene\MainGameSceneScreen.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Views\GameSceneHandler.cs" Line="33" Column="46" />
+      <File FileName="Assets\Scripts\Views\Screens\GameScene\MainGameSceneScreen.cs" Line="82" Column="2" />
+      <File FileName="Assets\Scripts\Views\Objects\Behaviours\BlackPlayerBehaviour.cs" Line="175" Column="96" />
+      <File FileName="Assets\Scripts\Views\Objects\Behaviours\WhitePlayerBehaviour.cs" Line="171" Column="72" NotebookId="1" />
+      <File FileName="Assets\Scripts\Broadcasting\EventNames.cs" Line="24" Column="58" NotebookId="1" />
+      <File FileName="Assets\Scripts\Views\Screens\GameScene\SetBlackPiecesScreen.cs" Line="157" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\MZ\OneDrive\Documents\Unity\Game of the Generals AR Updated\Assets\Scripts\Views\Screens\GameScene\MainGameSceneScreen.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

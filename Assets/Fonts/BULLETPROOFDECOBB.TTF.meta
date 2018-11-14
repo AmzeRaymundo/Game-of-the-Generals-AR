@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d2348e647e713e94d8c842b6b9627ad8
+timeCreated: 1518903257
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bulletproof Deco BB
+  fontNames:
+  - Bulletproof Deco BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44ac49ce0cb15a14fa574c3ef4cde3d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
